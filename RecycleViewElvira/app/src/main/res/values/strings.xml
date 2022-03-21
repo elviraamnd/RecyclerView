@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerViewElvira</string>
+
+    <string-array name="indonesian_foods">
+        <item>Sate</item>
+        <item>Pempek</item>
+        <item>Rendang</item>
+        <item>Ketoprak</item>
+        <item>Gudeg</item>
+        <item>Batagor</item>
+        <item>Siomay</item>
+        <item>Rawon</item>
+        <item>Serombotan</item>
+        <item>Bakso</item>
+    </string-array>
+
+    <string-array name="description">
+        <item> From Madura, East Java</item>
+        <item> From Palembang, South Sumatera</item>
+        <item> From Minangkabau, West Sumatera</item>
+        <item> From Jakarta</item>
+        <item> From Yogyakarta, Central Java</item>
+        <item> From Bandung, West Java</item>
+        <item> From Bandung, West Java</item>
+        <item> From Surabaya, East Java</item>
+        <item> From Bali</item>
+        <item> From Malang, East Java</item>
+    </string-array>
+</resources>
